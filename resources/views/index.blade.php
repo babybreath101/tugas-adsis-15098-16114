@@ -1,10 +1,10 @@
 <html>
     <head>
-        <title>Asya Blog</title>
+        <title>Farel Blog</title>
     </head>
     <body>
         <div>
-            <p>Ini adalah blog milik Asya</p>
+            <p>Ini adalah blog milik Farel</p>
         </div>
     </body>
 </html>
